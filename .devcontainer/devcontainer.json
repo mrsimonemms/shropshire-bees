@@ -9,6 +9,8 @@
         "donjayamanne.git-extension-pack",
         "EditorConfig.EditorConfig",
         "waderyan.gitblame",
+        "esbenp.prettier-vscode",
+        "svelte.svelte-vscode",
         "GitHub.vscode-github-actions"
       ]
     }
